@@ -13,7 +13,7 @@
 #include <mach/processor_info.h>
 #include <mach/mach_host.h>
 
-const int MAX_COUNT = 60;
+const int MAX_COUNT = 30;
 
 @interface ViewController ()
 
